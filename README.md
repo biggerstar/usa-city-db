@@ -4,9 +4,9 @@
 
 - `postalCode` 美国城市邮编代码
 - `city` 美国城市名
-- `cityType`  城市类别  D - 默认，  N - Not Acceptable
 - `shortState` 美国州名简写
 - `state` 美国州名中文
+- `cityType`  城市类别  D - 默认，  N - Not Acceptable ( 可以接为别名， 在 D 城市附近区域的地址 )
 
 
 ### 接口
